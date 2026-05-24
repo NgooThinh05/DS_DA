@@ -37,13 +37,7 @@ Trong đó:
 
 *Lý do dùng RMSLE:* Chỉ số này giúp giảm thiểu sự phạt lỗi quá lớn đối với những mặt hàng có doanh số bán ra đột biến và rất phù hợp với dữ liệu không có giá trị âm (như số lượng hàng hóa).
 
-## 🚀 Hướng dẫn cài đặt và sử dụng
-
-### 1. Yêu cầu môi trường
-* Python 3.8 trở lên
-* Jupyter Notebook hoặc Visual Studio Code
-
-### 2. Cài đặt thư viện
-Chạy lệnh sau trong Terminal/Command Prompt để cài đặt các thư viện cần thiết:
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn xgboost
+## 🏆 Kết quả & Thành tích
+* **Điểm số (Public Score - RMSLE):** 0.38
+* **Thứ hạng:** Top 10% Leaderboard Kaggle.
+* **Mô hình tối ưu:** [LightGBM / CatBoost]
